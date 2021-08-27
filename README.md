@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @isbo18
 - 👀 I’m interested in Dart and Flutter
-- 🌱 I’m currently learning Dart
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me isbo1888@gmail.com
 
 <!---
